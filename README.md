@@ -1,1 +1,0 @@
-# meteor-application-template
